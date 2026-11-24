@@ -1,0 +1,14 @@
+CEIP-Dunas-del-Atlantico/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── app.js
+└── img/
+    ├── logo.png
+    ├── hero.jpg
+    ├── bioclase.png
+    ├── gastroclase.png
+    ├── piscina.png
+    └── proyecciones.png
